@@ -5,7 +5,7 @@
     "keywords": ["LSP", "laravel", "sdk", "api"],
     "homepage": "https://github.com/oyleanu/taobao-top-client",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "lsp",
