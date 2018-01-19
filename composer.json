@@ -1,0 +1,24 @@
+{
+    "name": "lsp/api",
+    "type": "library",
+    "description": "LSp client(SDK) for laravel 5.5",
+    "keywords": ["LSP", "laravel", "sdk", "api"],
+    "homepage": "https://github.com/oyleanu/taobao-top-client",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lsp",
+            "email": "lsp@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "illuminate/support": "~5.0|~5.1|~5.2|~5.3|~5.4|~5.5",
+    },
+    "autoload": {
+        "psr-4": {
+            "Lsp\\Api\\": "src/",
+            "Main\\": "src/Main/"
+        }
+    }
+}
