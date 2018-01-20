@@ -3,9 +3,9 @@
     "type": "library",
     "description": "LSp client(SDK) for laravel 5.5",
     "keywords": ["LSP", "laravel", "sdk", "api"],
-    "homepage": "https://github.com/oyleanu/taobao-top-client",
+    "homepage": "https://github.com/johnsewn/lsp",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-master",
     "authors": [
         {
             "name": "lsp",
