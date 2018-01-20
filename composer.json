@@ -5,7 +5,7 @@
     "keywords": ["LSP", "laravel", "sdk", "api"],
     "homepage": "https://github.com/johnsewn/lsp",
     "license": "MIT",
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "lsp",
